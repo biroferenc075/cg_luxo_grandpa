@@ -1,5 +1,5 @@
 # cg_luxo_grandpa
-"Luxo Grandpa" assignment for Computer Graphics course
+"Luxo Grandpa" assignment for Computer Graphics course, originally made in 2022
 
 The task was to simulate a desktop lamp, which rotates on three of its' joints, with Blinn-Phong shading.
 
